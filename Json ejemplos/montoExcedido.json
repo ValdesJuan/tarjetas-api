@@ -1,0 +1,19 @@
+{
+    "claveFin": "",
+    "claveInicio": "",
+    "descRetorno": "MPE5009 - EL MONTO ES MAYOR AL PERMITIDO",
+    "indMasDatos": "",
+    "pantPagina": "",
+    "retorno": "200",
+    "tiempoEjecucion": "971ms",
+    "totalRegistros": 0,
+    "registros_CEALDTA":{
+        "registro:Numero":0,
+        "contrato":"",
+        "feccadtar":"",
+        "numbencta":"0",
+        "numsec":"0",
+        "pan":"",
+        "saldotar":0.0
+    }
+}

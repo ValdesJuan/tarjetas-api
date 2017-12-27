@@ -1,0 +1,19 @@
+{
+    "claveFin": "",
+    "claveInicio": "",
+    "descRetorno": "Operacion realizada con exito",
+    "indMasDatos": "",
+    "pantPagina": "",
+    "retorno": "000",
+    "tiempoEjecucion": "5317ms",
+    "totalRegistros": 1,
+    "registros_CEALDTA":{
+        "registro:Numero":1,
+        "contrato":"06840001000000000013",
+        "feccadtar":"202212",
+        "numbencta":"1",
+        "numsec":"0",
+        "pan":"4234840004992508",
+        "saldotar":100000.0
+    }
+}
