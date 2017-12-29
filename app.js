@@ -10,12 +10,10 @@ app.use(methodOverride());
 var router = express.Router();
 
 router.get('/', function(req, res) {
-   res.send("Hello World!");
+   res.send("Services availables: CEALDTA (post)");
 });
 
 app.use(router);
-
-
 
 var CealdtaCtrl = require('./controllers/CEALDTA');
 var cealdta = express.Router();
@@ -27,7 +25,7 @@ cealdta.route('/MI').post(CealdtaCtrl.cealtarMontoInferior);
 cealdta.route('/NE').post(CealdtaCtrl.cealtarNumeroExcedido);
 cealdta.route('/SE').post(CealdtaCtrl.cealtarSaldoExcedido);
 
-app.use("/cealtar",cealdta);
+app.use("/CEALDTA",cealdta);
 
 app.listen(3000, function() {
   console.log("Node server running on http://localhost:3000");
