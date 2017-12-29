@@ -17,17 +17,17 @@ app.use(router);
 
 
 
-var cealtarCtrl = require('./controllers/CEALTAR');
-var cealtar = express.Router();
+var CealdtaCtrl = require('./controllers/CEALDTA');
+var cealdta = express.Router();
 
-cealtar.route('/').post(cealtarCtrl.cealtarOK);
-cealtar.route('/Ok').post(cealtarCtrl.cealtarOK);
-cealtar.route('/ME').post(cealtarCtrl.cealtarMontoExcedido);
-cealtar.route('/MI').post(cealtarCtrl.cealtarMontoInferior);
-cealtar.route('/NE').post(cealtarCtrl.cealtarNumeroExcedido);
-cealtar.route('/SE').post(cealtarCtrl.cealtarSaldoExcedido);
+cealdta.route('/').post(CealdtaCtrl.cealtar);
+cealdta.route('/Ok').post(CealdtaCtrl.cealtarOK);
+cealdta.route('/ME').post(CealdtaCtrl.cealtarMontoExcedido);
+cealdta.route('/MI').post(CealdtaCtrl.cealtarMontoInferior);
+cealdta.route('/NE').post(CealdtaCtrl.cealtarNumeroExcedido);
+cealdta.route('/SE').post(CealdtaCtrl.cealtarSaldoExcedido);
 
-app.use("/cealtar",cealtar);
+app.use("/cealtar",cealdta);
 
 app.listen(3000, function() {
   console.log("Node server running on http://localhost:3000");
