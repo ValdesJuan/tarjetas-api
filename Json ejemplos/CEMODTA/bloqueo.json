@@ -1,0 +1,26 @@
+{
+    "claveFin": null,
+    "claveInicio": null,
+    "descRetorno": "Operación Realizada con éxito",
+    "indMasDatos": null,
+    "pantPagina": null,
+    "retorno": "000",
+    "securityToken": null,
+    "tiempoEjecucion": "974",
+    "totalRegistros": "1",
+    "contratos": {
+        "registro_Numero": "1",
+        "codblq": "6",
+        "desblq": "BLOQUEO CLIENTE",
+        "fecblq": {
+            "anno": "2018",
+            "dia": "3",
+            "format": "dd-MM-yyyy",
+            "mes": "1",
+            "nombreDia": "miércoles",
+            "nombreMes": "enero",
+            "valueDate": "03-01-2018"
+        },
+        "horblq": "10:03:41"
+    }
+}

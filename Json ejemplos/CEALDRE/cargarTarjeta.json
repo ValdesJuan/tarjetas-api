@@ -6,15 +6,14 @@
     "pantPagina": null,
     "retorno": "000",
     "securityToken": null,
-    "tiempoEjecucion": "1550",
+    "tiempoEjecucion": "612",
     "totalRegistros": "1",
     "contratos": {
         "registro_Numero": "1",
-        "contrato": "06840001000000000035",
-        "feccadtar": "202301",
-        "numbencta": "1",
-        "numsec": "0",
-        "pan": "4234840001616910",
-        "saldotar": "-58950.0"
+        "comision": "88.0",
+        "monto": "5000.0",
+        "numextcta": "1",
+        "nummovext": "2",
+        "saldotar": "34387.0"
     }
 }

@@ -1,0 +1,47 @@
+{
+    "claveFin": null,
+    "claveInicio": null,
+    "descRetorno": "MPE1023 - LA RELACION CONTRATO-CLIENTE NO EXISTE",
+    "indMasDatos": null,
+    "pantPagina": null,
+    "retorno": "200",
+    "securityToken": null,
+    "tiempoEjecucion": "266",
+    "totalRegistros": "0",
+    "contratos": [
+        {
+            "registro_Numero": "",
+            "apelli1": null,
+            "apelli2": null,
+            "centalta": null,
+            "codblq": "0",
+            "cuenta": null,
+            "desblq": null,
+            "fecalta": {
+                "anno": "0",
+                "dia": "0",
+                "format": "dd-MM-yyyy",
+                "mes": "0",
+                "nombreDia": null,
+                "nombreMes": null,
+                "valueDate": null
+            },
+            "fecbaja": {
+                "anno": "0",
+                "dia": "0",
+                "format": "dd-MM-yyyy",
+                "mes": "0",
+                "nombreDia": null,
+                "nombreMes": null,
+                "valueDate": null
+            },
+            "feccadtar": null,
+            "nombre": null,
+            "numbencta": null,
+            "numsec": null,
+            "pan": null,
+            "salautcre": 0,
+            "saldiscre": 0
+        }
+    ]
+}

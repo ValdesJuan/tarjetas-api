@@ -1,0 +1,26 @@
+{
+    "claveFin": null,
+    "claveInicio": null,
+    "descRetorno": "MPE5013 - CONTRATO/TARJETA SE ENCUENTRA DESBLOQUEADA",
+    "indMasDatos": null,
+    "pantPagina": null,
+    "retorno": "200",
+    "securityToken": null,
+    "tiempoEjecucion": "239",
+    "totalRegistros": "0",
+    "contratos": {
+        "registro_Numero": "0",
+        "codblq": null,
+        "desblq": null,
+        "fecblq": {
+            "anno": "0",
+            "dia": "0",
+            "format": "dd-MM-yyyy",
+            "mes": "0",
+            "nombreDia": null,
+            "nombreMes": null,
+            "valueDate": null
+        },
+        "horblq": null
+    }
+}

@@ -1,0 +1,1 @@
+exports.cecosal = (req, res) => {res.json(require('../Json ejemplos/CECOSAL/consultaSaldo.json'))};

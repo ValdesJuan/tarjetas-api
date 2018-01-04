@@ -6,15 +6,16 @@
     "pantPagina": null,
     "retorno": "000",
     "securityToken": null,
-    "tiempoEjecucion": "1550",
+    "tiempoEjecucion": "694",
     "totalRegistros": "1",
     "contratos": {
         "registro_Numero": "1",
-        "contrato": "06840001000000000035",
-        "feccadtar": "202301",
-        "numbencta": "1",
-        "numsec": "0",
-        "pan": "4234840001616910",
-        "saldotar": "-58950.0"
+        "clamonp": "152",
+        "clamons": "0",
+        "conprod": "001",
+        "producto": "01",
+        "saldisconp": "-58950.0",
+        "saldiscons": "0.0",
+        "subprodu": null
     }
 }
